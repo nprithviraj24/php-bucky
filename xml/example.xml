@@ -1,0 +1,26 @@
+<producers>
+		<producer>
+			<name>Cleveland cavaliers</name>
+			<sport>Basketball</sport>
+			<championships>
+				<League>None</League>
+				<CL>None</CL>
+			</championships>
+		</producer>
+		<producer>
+			<name>Manchester United</name>
+			<sport>Football </sport>
+			<championships>
+				<League>Greater than 10</League>
+				<CL>3</CL>
+			</championships>
+		</producer>
+		<producer>
+			<name>Sunrisers Hyderabad</name>
+			<sport>Cricket</sport>
+			<championships>
+				<League>None</League>
+				<CL>None</CL>
+			</championships>
+		</producer>
+</producers>
